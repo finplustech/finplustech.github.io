@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FinPlusTech",
-    "currentPage": "Stoler.html",
+    "currentPage": "stoler.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -664,7 +664,7 @@
         }
       ]
     },
-    "Stoler.html": {
+    "stoler.html": {
       "settings": {
         "meta_descr": "Stoler",
         "title": "Stoler",
